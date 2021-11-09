@@ -11,10 +11,10 @@
 2) Unsupervised Learning<br>
     a) Dimensionality Reduction<br>
     b) Clustering.<br>
-3) Reinforcement Learning
-    a) Q-Learning
-    b) R-Learning
-    c) TD Learning
+3) Reinforcement Learning<br>
+    a) Q-Learning<br>
+    b) R-Learning<br>
+    c) TD Learning<br>
     
 # classification
 
