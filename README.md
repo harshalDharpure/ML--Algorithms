@@ -5,12 +5,12 @@
 4) Dimensionality Reduction
 
 # Types of Machine Learning
-1) Supervised Learning
-    a)Classification
-    b)Regression
-2) Unsupervised Learning
-    a) Dimensionality Reduction
-    b) Clustering.
+1) Supervised Learning<br>
+    a)Classification<br>
+    b)Regression<br>
+2) Unsupervised Learning<br>
+    a) Dimensionality Reduction<br>
+    b) Clustering.<br>
 3) Reinforcement Learning
     a) Q-Learning
     b) R-Learning
