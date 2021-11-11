@@ -5,6 +5,13 @@
 4) Dimensionality Reduction
 
 # Types of Machine Learning
+
+a) Supervised Machine Learning
+b) unsupervised Machine Learning
+c) Reinforcement Learning.
+
+
+
 1) Supervised Learning<br>
     a)Classification<br>
     b)Regression<br>
@@ -18,9 +25,9 @@
     
 # classification
 
-1) KNN
+1) KNN (k-Nearest Neighbors)
 2) Kernal_SVM
-3) SVM
+3) SVM (Support Vector Machine)
 
 # Regression
 
